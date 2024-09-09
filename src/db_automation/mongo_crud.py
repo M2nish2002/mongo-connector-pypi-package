@@ -1,7 +1,7 @@
 from typing import Any
 import os
 import pandas as pd
-from pymongo import MongoClient
+from pymongo.mongo_client import MongoClient
 import json
 from ensure import ensure_annotations
 
