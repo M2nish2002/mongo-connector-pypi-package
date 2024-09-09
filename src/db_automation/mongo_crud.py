@@ -6,7 +6,6 @@ import json
 from ensure import ensure_annotations
 
 
-
 class mongo_operation:
     __collection=None # here i have created a private/protected variable
     __database=None
